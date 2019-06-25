@@ -425,6 +425,8 @@ img {
     align-items: center; }
     #main-nav li {
       padding: 1rem; }
+    #main-nav a {
+      color: #fff; }
   #header-home {
     height: 12rem;
     border-bottom: 3px solid #ffbc00;
