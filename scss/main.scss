@@ -333,10 +333,6 @@ img {
   position: relative;
   bottom: -30px;
 
-  a:nth-of-type(odd) {
-    color: #4d79ff;
-  }
-
   .footer-content {
     display: flex;
     justify-content: space-between;
@@ -356,6 +352,7 @@ img {
 
       &:hover {
         background: $main-color;
+        color: #0000cd;
       }
     }
   }
