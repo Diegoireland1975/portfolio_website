@@ -396,8 +396,6 @@ img {
   height: 5rem;
   position: relative;
   bottom: -30px; }
-  #main-footer a:nth-of-type(odd) {
-    color: #4d79ff; }
   #main-footer .footer-content {
     display: flex;
     justify-content: space-between;
@@ -414,7 +412,8 @@ img {
       text-align: center;
       transition: 0.5s ease-in-out; }
       #main-footer .footer-content .social .fab:hover {
-        background: #ffbc00; }
+        background: #ffbc00;
+        color: #0000cd; }
 
 @media (max-width: 800px) {
   #header-home {
