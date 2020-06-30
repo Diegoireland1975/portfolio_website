@@ -193,7 +193,8 @@ img {
 
 #logo {
   width: 100px;
-  height: 100px; }
+  height: 100px;
+  margin-top: -1rem; }
 
 #main-nav {
   display: flex;
