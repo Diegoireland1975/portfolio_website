@@ -332,6 +332,11 @@ img {
   position: relative;
   bottom: -30px;
 
+  a:nth-of-type(odd) {
+    font-weight: bold;
+    color: #264de4;
+  }
+
   .footer-content {
     display: flex;
     justify-content: space-between;
