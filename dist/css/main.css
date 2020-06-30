@@ -451,6 +451,8 @@ img {
     padding: 1.5rem 0; }
   #about-a .about-info {
     grid-template-areas: "bioimage" "bio" "aw1" "aw2" "aw3"; }
+  #about-a .bio {
+    grid-template-rows: 2/2; }
   #about-c .about-logos img {
     width: 35%;
     margin: auto; }
