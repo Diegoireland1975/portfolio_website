@@ -407,7 +407,7 @@ img {
       width: 20px;
       line-height: 20px;
       text-align: center;
-      transition: 2s ease-in-out; }
+      transition: 1s ease-in-out; }
       #main-footer .footer-content .social .fab:hover {
         background: #ffbc00; }
 
