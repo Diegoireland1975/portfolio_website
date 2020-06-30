@@ -292,7 +292,7 @@ img {
 
 #about-a .about-info {
   display: grid;
-  grid-template-areas: "bioimage bio bio" "aw1 aw2 aw3";
+  grid-template-areas: "bioimage bioimage bio" "aw1 aw2 aw3";
   grid-gap: 1.2rem; }
 
 #about-a .bio-image {
@@ -451,10 +451,6 @@ img {
     padding: 1.5rem 0; }
   #about-a .about-info {
     grid-template-areas: "bioimage" "bio" "aw1" "aw2" "aw3"; }
-  #about .bio p {
-    align-self: flex-end;
-    background-color: red;
-    font-size: 3rem; }
   #about-c .about-logos img {
     width: 35%;
     margin: auto; }
