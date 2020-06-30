@@ -475,7 +475,9 @@ img {
       flex-direction: column;
       justify-content: center;
       padding: 1rem;
-      height: 5rem; } }
+      height: 5rem; }
+    #main-footer .social {
+      margin-top: 0.5rem; } }
 
 @media (max-height: 580px) {
   #header-home .header-content {
