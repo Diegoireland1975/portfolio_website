@@ -397,8 +397,7 @@ img {
   position: relative;
   bottom: -30px; }
   #main-footer a:nth-of-type(odd) {
-    font-weight: bold;
-    color: #264de4; }
+    color: #4d79ff; }
   #main-footer .footer-content {
     display: flex;
     justify-content: space-between;
