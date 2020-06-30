@@ -345,6 +345,7 @@ img {
       width: 20px;
       line-height: 20px;
       text-align: center;
+      transition: 2s ease-in-out;
 
       &:hover {
         background: $main-color;
