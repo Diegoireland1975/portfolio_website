@@ -165,12 +165,10 @@ img {
         height: 70px;
         line-height: 70px;
         text-align: center;
-        transition: all 1s ease-in-out;
+        transition: all 0.5s ease-in-out;
 
         &:hover {
           background: $main-color;
-          // width: 90px;
-          // height: 90px;
           line-height: 90px;
 
           .process-step {
